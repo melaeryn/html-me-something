@@ -1,0 +1,102 @@
+body{
+	background-color: #f5f2d0;
+}
+
+nav{
+	background-color: #7575FF;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #5353d8;
+}
+
+h1{
+	background-color: white;
+	padding: 20px;
+	font-size: 50px;
+	text-shadow: 2px 2px 5px grey;
+	text-align: center;
+	font-family: 'Great Vibes', cursive;
+}
+
+.button{
+	padding: 5px 20px;
+    color: white;
+	text-align: center;
+	text-decoration: none;
+    background: #7575FF;
+    transition: 0.3s;
+	border: none;
+	font-size:15px;
+	cursor: pointer;
+}
+
+.button:hover{
+    color:black;
+    background: white;
+	cursor: pointer;
+   }
+ 
+ h2{
+	 font-size: 35px;
+	 text-align: center;
+	 padding-top: 25px;
+	 font-family: 'Great Vibes', cursive;
+	 	font-size: 50px;
+	text-shadow: 2px 2px 5px grey;
+	 
+ }
+ 
+ .headingBox{
+	 height: 50px;
+	 width: 100px;
+	 color: white;
+ }
+ 
+ p{
+	 font-family: sans-serif;
+ }
+
+img:hover{
+	opacity: 1;
+}
+
+img{
+	opacity: .5;
+	transition: 0.3s;
+	  margin-left: auto;
+	  margin-right: auto;
+	  display: block;
+	  padding: 5px;
+}
+
+.center{
+  margin: auto;
+  width: 40%;
+  padding: 20px;
+  border-bottom: 2px dashed #9c8259;
+  background-color: white;
+}
+
+small{
+	font-size: 10px;
+}
+
+figcaption{
+	text-align: center;
+}
+
+figure{
+	
+	display: block;
+}
+
+#red{ color: red; }
+#green{ color: green; }
+#yellow{ color: gold; }
+#white{ color: white; }
+#peach{ color: #F98B88; }
+#pink{ color: pink; }
+#orange{ color: orange; }
+#blue{ color: blue; }
+#purple{ color: purple; }
